@@ -15,6 +15,7 @@
 
 ## SQL
 | Project Link | Area of Analysis | Project Description |
+| --- | --- | --- | --- |
 | [Week #1: Danny's Diner](https://github.com/rxphaelbihag/SQL-Data-With-Danny/tree/main/Case%20Study%20%231%20Danny's%20Diner) | Data analysis, data cleaning, data transformation | This is the first week of Danny's 8 Week SQL Challenge. This week shows solutions to the case study questions where Danny wants to use the data to answer a few simple questions about his customers, especially about their visiting patterns, how much money they’ve spent, and also which menu items are their favourite. |
 | [Week #2: Pizza Runner](https://github.com/rxphaelbihag/SQL-Data-With-Danny/tree/main/Case%20Study%20%232%20Pizza%20Runner) | Data analysis, data cleaning, data transformation | This is an ongoing project. |
 
