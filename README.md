@@ -26,6 +26,8 @@
 | --- | --- | --- |
 | 📦 [Multiple Period Production-Inventory Model](https://github.com/rxphaelbihag/Linear-Programming/blob/main/Production_Inventory_Optimization.ipynb) | Supply Chain Optimization | The notebook provides a comprehensive solution to a multiple period production-inventory optimization problem taken from Operations Research: An Introduction (10th ed.) by Taha, H. (2017). This is aimed at minimizing total costs over a six-month horizon. By balancing fluctuating monthly production costs against a fixed $8 monthly inventory holding cost per unit, the model determines an optimal schedule that meets specific delivery contracts for windows. This implements the solution using both the PuLP and SciPy Python libraries. |
 
+***
+
 ## 💫 Other Projects
 | Project Link | Project Description | Language & Libraries |
 | --- | --- | --- |
